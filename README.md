@@ -7,6 +7,7 @@ This repository contains configuration settings for the GNOME Dash to Dock exten
 - [Description](#description)
 - [Settings](#settings)
 - [Usage](#usage)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,6 +40,11 @@ gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-fixed false
 ```
+## Preview
+![Desktop view](/preview/Screenshot%20from%202024-04-14%2018-45-49.png)
+
+
+
 ## Contributing
 Contributions to add more configuration settings or improve existing ones are welcome. Please fork the repository, make your changes, and submit a pull request.
 
