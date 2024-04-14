@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/preview/Screenshot from 2024-04-14 18-45-49.png" alt="Header Image">
-</p>
 
 # GNOME Dash to Dock Configuration in Ubuntu
 
