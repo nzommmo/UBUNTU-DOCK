@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/preview/Screenshot from 2024-04-14 18-45-49.png" alt="Header Image">
+</p>
+
 # GNOME Dash to Dock Configuration in Ubuntu
 
 This repository contains configuration settings for the GNOME Dash to Dock extension to customize its behavior and appearance in Ubuntu
