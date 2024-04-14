@@ -28,6 +28,7 @@ The following settings are included in this repository:
 ## Usage
 
 To use these settings, you can apply them using the `gsettings` command-line tool. Here's an example of how to apply the settings:
+Paste the script below in your system terminal.
 
 ```bash
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
@@ -37,3 +38,11 @@ gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 36
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-fixed false
+```
+## Contributing
+Contributions to add more configuration settings or improve existing ones are welcome. Please fork the repository, make your changes, and submit a pull request.
+
+## License
+This repository is licensed under the MIT License.
+
+
